@@ -2,6 +2,6 @@
 .terraform.lock.hcl
 terraform.tfstate   
 terraform.tfstate.backup
-nginix.sh
+nginx.sh
 deploy.sh
 health-router.sh
