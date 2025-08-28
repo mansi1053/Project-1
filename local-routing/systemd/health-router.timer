@@ -1,0 +1,9 @@
+[Unit]
+Description=Run health-router periodically
+
+[Timer]
+OnBootSec=30
+OnUnitActiveSec=15
+
+[Install]
+WantedBy=timers.target

@@ -1,0 +1,5 @@
+machine_type = "f1.micro"
+zone = "us-central1-a"
+image = "debian-cloud/debian-11"
+name = "gcp-nginx"
+region = "us-central1"
